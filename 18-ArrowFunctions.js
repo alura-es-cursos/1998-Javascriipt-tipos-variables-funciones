@@ -10,3 +10,5 @@ const multiplicaNumeros = function(a, b, c) {
 
 //Arrow Function
 const multiplicaNumeroFuncionFlecha = (a, b, c) => a*b*c;
+
+const potenciaDe2 = numero => numero*numero;
